@@ -101,13 +101,13 @@ F1-score: 85.20%
 ## Sample Predictions
 Here are example results from the web app:
 ### **Entailment:**
-![Entailment](results/Test_Result01.png)
+![Entailment](Test_Result01.png)
 
 ### **Neutral:**
-![Neutral](results/Test_Result02.png)
+![Neutral](Test_Result02.png)
 
 ### **Contradiction:**
-![Contradiction](results/Test_Result03.png)
+![Contradiction](Test_Result03.png)
 
 ---
 
